@@ -6,4 +6,5 @@ data class Car(
     val year: Int,
     val maxSpeed: Int,
     val acceleration: Int,
+    val acceleration2: Int,
 )
